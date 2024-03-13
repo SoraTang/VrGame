@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Samples/OpenXR Plugin/1.8.2/Controller/ControllerSample.unity
+    guid: edb91e86bd8b7dc4ca40ad6c3167de73
+  m_configObjects:
+    Unity.XR.PICO.LivePreview.Settings: {fileID: 11400000, guid: a1291586d44e0cd4bb8715d0d9140d64, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 2cea32d26d746ef45824ca1a3e8ba541, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 359fba84333de9242a2f1e94f9ac4491, type: 2}
